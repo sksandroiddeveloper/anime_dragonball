@@ -1,0 +1,44 @@
+package com.dragonball.app.viewmodel;
+
+import com.dragonball.app.data.repository.DragonBallRepository;
+import dagger.internal.DaggerGenerated;
+import dagger.internal.Factory;
+import dagger.internal.QualifierMetadata;
+import dagger.internal.ScopeMetadata;
+import javax.annotation.processing.Generated;
+import javax.inject.Provider;
+
+@ScopeMetadata
+@QualifierMetadata
+@DaggerGenerated
+@Generated(
+    value = "dagger.internal.codegen.ComponentProcessor",
+    comments = "https://dagger.dev"
+)
+@SuppressWarnings({
+    "unchecked",
+    "rawtypes",
+    "KotlinInternal",
+    "KotlinInternalInJava",
+    "cast"
+})
+public final class PlanetsViewModel_Factory implements Factory<PlanetsViewModel> {
+  private final Provider<DragonBallRepository> repositoryProvider;
+
+  public PlanetsViewModel_Factory(Provider<DragonBallRepository> repositoryProvider) {
+    this.repositoryProvider = repositoryProvider;
+  }
+
+  @Override
+  public PlanetsViewModel get() {
+    return newInstance(repositoryProvider.get());
+  }
+
+  public static PlanetsViewModel_Factory create(Provider<DragonBallRepository> repositoryProvider) {
+    return new PlanetsViewModel_Factory(repositoryProvider);
+  }
+
+  public static PlanetsViewModel newInstance(DragonBallRepository repository) {
+    return new PlanetsViewModel(repository);
+  }
+}

@@ -1,0 +1,67 @@
+com.dragonball.app-navigation-compose-2.8.2-0 /Users/darshansingh/.gradle/caches/8.10/transforms/050b87c20791d83a3ea898002bf22188/transformed/navigation-compose-2.8.2/res
+com.dragonball.app-navigation-runtime-ktx-2.8.2-1 /Users/darshansingh/.gradle/caches/8.10/transforms/096c5429769f5d5290a58ac6bab73d14/transformed/navigation-runtime-ktx-2.8.2/res
+com.dragonball.app-lifecycle-viewmodel-ktx-2.8.6-2 /Users/darshansingh/.gradle/caches/8.10/transforms/0c331dc8165c452ba996a41e527e3d30/transformed/lifecycle-viewmodel-ktx-2.8.6/res
+com.dragonball.app-coil-base-2.7.0-3 /Users/darshansingh/.gradle/caches/8.10/transforms/0f4a4ba7cf68245537a72c5ee5fa9907/transformed/coil-base-2.7.0/res
+com.dragonball.app-savedstate-1.2.1-4 /Users/darshansingh/.gradle/caches/8.10/transforms/12c3723b74a6a0cd4eb9e57409aae348/transformed/savedstate-1.2.1/res
+com.dragonball.app-graphics-path-1.0.1-5 /Users/darshansingh/.gradle/caches/8.10/transforms/1e6792f6fd6f559fe97714b8d35c4842/transformed/graphics-path-1.0.1/res
+com.dragonball.app-lifecycle-runtime-ktx-release-6 /Users/darshansingh/.gradle/caches/8.10/transforms/2615638168db06edbc7e43c1a49949af/transformed/lifecycle-runtime-ktx-release/res
+com.dragonball.app-navigation-common-ktx-2.8.2-7 /Users/darshansingh/.gradle/caches/8.10/transforms/2847a0e36df1561a165a155ba37b25fa/transformed/navigation-common-ktx-2.8.2/res
+com.dragonball.app-lifecycle-livedata-2.8.6-8 /Users/darshansingh/.gradle/caches/8.10/transforms/29e6d3c7e0df1bf36ed0dccd4e0d10d4/transformed/lifecycle-livedata-2.8.6/res
+com.dragonball.app-appcompat-resources-1.6.1-9 /Users/darshansingh/.gradle/caches/8.10/transforms/2c6e5b7bf5e4918e2a0aa56239104f36/transformed/appcompat-resources-1.6.1/res
+com.dragonball.app-emoji2-1.3.0-10 /Users/darshansingh/.gradle/caches/8.10/transforms/306e9b5521a13d8e42181c8148b60397/transformed/emoji2-1.3.0/res
+com.dragonball.app-material-release-11 /Users/darshansingh/.gradle/caches/8.10/transforms/3685e41c489e710ff6f66a08912e48fe/transformed/material-release/res
+com.dragonball.app-ui-tooling-preview-release-12 /Users/darshansingh/.gradle/caches/8.10/transforms/3b3add3f409a28c4301912344edc138c/transformed/ui-tooling-preview-release/res
+com.dragonball.app-profileinstaller-1.3.1-13 /Users/darshansingh/.gradle/caches/8.10/transforms/3cebd18f5280b29fb385bdbcccd7860c/transformed/profileinstaller-1.3.1/res
+com.dragonball.app-core-ktx-1.13.1-14 /Users/darshansingh/.gradle/caches/8.10/transforms/44350b641a658aa52d3b554a40e9b161/transformed/core-ktx-1.13.1/res
+com.dragonball.app-material-icons-extended-release-15 /Users/darshansingh/.gradle/caches/8.10/transforms/4e57d78179f925cc2b614c5ba88a5ec8/transformed/material-icons-extended-release/res
+com.dragonball.app-hilt-navigation-1.2.0-16 /Users/darshansingh/.gradle/caches/8.10/transforms/51368d54590ad3389c082b65576ff242/transformed/hilt-navigation-1.2.0/res
+com.dragonball.app-lifecycle-process-2.8.6-17 /Users/darshansingh/.gradle/caches/8.10/transforms/59e1d11c6ce2fdb94a3b6759f243a52f/transformed/lifecycle-process-2.8.6/res
+com.dragonball.app-hilt-navigation-compose-1.2.0-18 /Users/darshansingh/.gradle/caches/8.10/transforms/5a5ca971ce61e6b2bc0939b5b7b5649a/transformed/hilt-navigation-compose-1.2.0/res
+com.dragonball.app-appcompat-1.6.1-19 /Users/darshansingh/.gradle/caches/8.10/transforms/5dc1eedf31d69846c28506d06f8a997a/transformed/appcompat-1.6.1/res
+com.dragonball.app-animation-release-20 /Users/darshansingh/.gradle/caches/8.10/transforms/5dde071596ee5fec1af5a5c10b8044bf/transformed/animation-release/res
+com.dragonball.app-ui-unit-release-21 /Users/darshansingh/.gradle/caches/8.10/transforms/6078ea05bae592a8db0468bb2204855c/transformed/ui-unit-release/res
+com.dragonball.app-emoji2-views-helper-1.3.0-22 /Users/darshansingh/.gradle/caches/8.10/transforms/62d1771b8bdb703dd3a5463f6d1d2ca2/transformed/emoji2-views-helper-1.3.0/res
+com.dragonball.app-annotation-experimental-1.4.1-23 /Users/darshansingh/.gradle/caches/8.10/transforms/636763f2955579099be20c16e284b50c/transformed/annotation-experimental-1.4.1/res
+com.dragonball.app-material-icons-core-release-24 /Users/darshansingh/.gradle/caches/8.10/transforms/638b0be2a04526cff4d710dea81222dd/transformed/material-icons-core-release/res
+com.dragonball.app-core-splashscreen-1.0.1-25 /Users/darshansingh/.gradle/caches/8.10/transforms/6d407ad91594b1d22d99a25691fa3301/transformed/core-splashscreen-1.0.1/res
+com.dragonball.app-lifecycle-viewmodel-release-26 /Users/darshansingh/.gradle/caches/8.10/transforms/6ef7fb53ff31d6fdf958b45161cbc0d9/transformed/lifecycle-viewmodel-release/res
+com.dragonball.app-ui-graphics-release-27 /Users/darshansingh/.gradle/caches/8.10/transforms/77d715408079c56cdc8d0f3fef12e0fd/transformed/ui-graphics-release/res
+com.dragonball.app-lifecycle-livedata-core-ktx-2.8.6-28 /Users/darshansingh/.gradle/caches/8.10/transforms/7f36bb592d73252bb7f616fac2a58ae5/transformed/lifecycle-livedata-core-ktx-2.8.6/res
+com.dragonball.app-ui-release-29 /Users/darshansingh/.gradle/caches/8.10/transforms/865e70b4673fff4a7c1e1b2e62a0e1b6/transformed/ui-release/res
+com.dragonball.app-lifecycle-runtime-compose-release-30 /Users/darshansingh/.gradle/caches/8.10/transforms/8cca6947c23984e0f2dc9e0a7bbd723d/transformed/lifecycle-runtime-compose-release/res
+com.dragonball.app-customview-poolingcontainer-1.0.0-31 /Users/darshansingh/.gradle/caches/8.10/transforms/9460106f66ceb2af295b504bf5f41c2d/transformed/customview-poolingcontainer-1.0.0/res
+com.dragonball.app-navigation-runtime-2.8.2-32 /Users/darshansingh/.gradle/caches/8.10/transforms/962d4660bc94a8b732bea7d68ccae5f8/transformed/navigation-runtime-2.8.2/res
+com.dragonball.app-material-ripple-release-33 /Users/darshansingh/.gradle/caches/8.10/transforms/a024a94239a257d2f3b7b994df03974f/transformed/material-ripple-release/res
+com.dragonball.app-savedstate-ktx-1.2.1-34 /Users/darshansingh/.gradle/caches/8.10/transforms/a3d02999f0fe0297eb45c0b757efea1a/transformed/savedstate-ktx-1.2.1/res
+com.dragonball.app-foundation-layout-release-35 /Users/darshansingh/.gradle/caches/8.10/transforms/ad5e48d7c765f476e93356a86cdc24d4/transformed/foundation-layout-release/res
+com.dragonball.app-fragment-1.5.1-36 /Users/darshansingh/.gradle/caches/8.10/transforms/ae7853844f9e0833f123f96bbbafd2d7/transformed/fragment-1.5.1/res
+com.dragonball.app-core-runtime-2.2.0-37 /Users/darshansingh/.gradle/caches/8.10/transforms/b2a11572f5e8fa88aefea96857c32a8c/transformed/core-runtime-2.2.0/res
+com.dragonball.app-activity-compose-1.9.2-38 /Users/darshansingh/.gradle/caches/8.10/transforms/b665225c851f8f842651d4bf3aee6016/transformed/activity-compose-1.9.2/res
+com.dragonball.app-lifecycle-livedata-core-2.8.6-39 /Users/darshansingh/.gradle/caches/8.10/transforms/b9207c719b673cad498d088cdb9fbeac/transformed/lifecycle-livedata-core-2.8.6/res
+com.dragonball.app-lifecycle-runtime-release-40 /Users/darshansingh/.gradle/caches/8.10/transforms/b9416ada07114b882993f47d3be2c004/transformed/lifecycle-runtime-release/res
+com.dragonball.app-material3-release-41 /Users/darshansingh/.gradle/caches/8.10/transforms/bbd0224f6db6b56ece8ff065566b4c5c/transformed/material3-release/res
+com.dragonball.app-ui-util-release-42 /Users/darshansingh/.gradle/caches/8.10/transforms/be6c8b912e45288614b2b23322ac8169/transformed/ui-util-release/res
+com.dragonball.app-core-1.13.1-43 /Users/darshansingh/.gradle/caches/8.10/transforms/d2daa15c275342cc662a568b3b4f295a/transformed/core-1.13.1/res
+com.dragonball.app-ui-tooling-release-44 /Users/darshansingh/.gradle/caches/8.10/transforms/d75bfb932b347648f264de9997493e1a/transformed/ui-tooling-release/res
+com.dragonball.app-ui-text-release-45 /Users/darshansingh/.gradle/caches/8.10/transforms/d87b1edfa5ebe2799fbd1c6efe8db157/transformed/ui-text-release/res
+com.dragonball.app-runtime-release-46 /Users/darshansingh/.gradle/caches/8.10/transforms/dd04a3c53bda50d9f6106578ed118e9e/transformed/runtime-release/res
+com.dragonball.app-lifecycle-viewmodel-savedstate-2.8.6-47 /Users/darshansingh/.gradle/caches/8.10/transforms/e47f722b9d8ab00f6244b14249a3c012/transformed/lifecycle-viewmodel-savedstate-2.8.6/res
+com.dragonball.app-lottie-6.5.2-48 /Users/darshansingh/.gradle/caches/8.10/transforms/e7e5346c77b2dfe37f70242b8e205bd3/transformed/lottie-6.5.2/res
+com.dragonball.app-ui-test-manifest-1.7.3-49 /Users/darshansingh/.gradle/caches/8.10/transforms/e83c9c500e21a4d9ec61480addbc3db9/transformed/ui-test-manifest-1.7.3/res
+com.dragonball.app-lifecycle-viewmodel-compose-release-50 /Users/darshansingh/.gradle/caches/8.10/transforms/ebf6faf5c1c2af4d0238791406660332/transformed/lifecycle-viewmodel-compose-release/res
+com.dragonball.app-navigation-common-2.8.2-51 /Users/darshansingh/.gradle/caches/8.10/transforms/edc53286d34717e966c8d6956dda22ad/transformed/navigation-common-2.8.2/res
+com.dragonball.app-ui-geometry-release-52 /Users/darshansingh/.gradle/caches/8.10/transforms/eee086302813140b47583d42f279bc03/transformed/ui-geometry-release/res
+com.dragonball.app-foundation-release-53 /Users/darshansingh/.gradle/caches/8.10/transforms/efd88c6a757689165c375e26d80d9a7a/transformed/foundation-release/res
+com.dragonball.app-activity-ktx-1.9.2-54 /Users/darshansingh/.gradle/caches/8.10/transforms/f479fb4b754e12f2b3454c0fbcc03418/transformed/activity-ktx-1.9.2/res
+com.dragonball.app-startup-runtime-1.1.1-55 /Users/darshansingh/.gradle/caches/8.10/transforms/f6cf4e7b16ff97eb7c26f538de978ecc/transformed/startup-runtime-1.1.1/res
+com.dragonball.app-activity-1.9.2-56 /Users/darshansingh/.gradle/caches/8.10/transforms/f7e455defc24a2a7b3ec2373f243466b/transformed/activity-1.9.2/res
+com.dragonball.app-runtime-saveable-release-57 /Users/darshansingh/.gradle/caches/8.10/transforms/f7f1be2ed0e56a3ad370c7504d156861/transformed/runtime-saveable-release/res
+com.dragonball.app-ui-tooling-data-release-58 /Users/darshansingh/.gradle/caches/8.10/transforms/f99f68e51f943e4b5c3731cddde8ebff/transformed/ui-tooling-data-release/res
+com.dragonball.app-animation-core-release-59 /Users/darshansingh/.gradle/caches/8.10/transforms/fe139ec4a71af996f774b25791fc9a59/transformed/animation-core-release/res
+com.dragonball.app-pngs-60 /Users/darshansingh/Documents/untitled folder 11/DragonBallApp/app/build/generated/res/pngs/debug
+com.dragonball.app-resValues-61 /Users/darshansingh/Documents/untitled folder 11/DragonBallApp/app/build/generated/res/resValues/debug
+com.dragonball.app-packageDebugResources-62 /Users/darshansingh/Documents/untitled folder 11/DragonBallApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.dragonball.app-packageDebugResources-63 /Users/darshansingh/Documents/untitled folder 11/DragonBallApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.dragonball.app-debug-64 /Users/darshansingh/Documents/untitled folder 11/DragonBallApp/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.dragonball.app-debug-65 /Users/darshansingh/Documents/untitled folder 11/DragonBallApp/app/src/debug/res
+com.dragonball.app-main-66 /Users/darshansingh/Documents/untitled folder 11/DragonBallApp/app/src/main/res

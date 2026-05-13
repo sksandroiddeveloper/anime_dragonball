@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Dragon Ball circle -->
+    <path
+        android:fillColor="#F5A623"
+        android:pathData="M54,10 C79.4,10 100,30.6 100,56 C100,81.4 79.4,102 54,102 C28.6,102 8,81.4 8,56 C8,30.6 28.6,10 54,10 Z" />
+
+    <!-- 4-star -->
+    <path
+        android:fillColor="#CC2200"
+        android:pathData="M54,22 L57,32 L67,32 L59,38 L62,48 L54,42 L46,48 L49,38 L41,32 L51,32 Z" />
+
+    <!-- Shine -->
+    <path
+        android:fillColor="#FFDD88"
+        android:alpha="0.6"
+        android:pathData="M20,25 Q35,15 50,20 Q35,30 30,45 Q20,35 20,25 Z" />
+</vector>
